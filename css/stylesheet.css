@@ -1,20 +1,20 @@
 h1 {
-  background-color: darkgray;
-  color: blue;
-  font-family: sans-serif;
-  font-weight: bolder;
-  line-height: 100px;
+  background-color: green;
+  color: white;
+  font-family: fantasy;
+  font-size: 50px;
+  line-height: 130px;
 }
 
 h2 {
-  background: lightgray;
+  background: darkgray;
   color: white;
   font-family: sans-serif;
-  line-height: 60px;
+  line-height: 80px;
 }
 
 p {
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 ul {
@@ -24,7 +24,7 @@ ul {
 }
 
 ol {
-  color: red;
+  color: green;
   font-size: 20px;
   line-height: 35px;
 }

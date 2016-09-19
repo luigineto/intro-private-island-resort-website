@@ -1,25 +1,30 @@
 h1 {
-  color: red;
+  background-color: darkgray;
+  color: blue;
   font-family: sans-serif;
   font-weight: bolder;
+  line-height: 100px;
 }
 
 h2 {
-  color: gray;
+  background: lightgray;
+  color: white;
   font-family: sans-serif;
+  line-height: 60px;
 }
 
 p {
-  font-family: serif;
-  font-weight: lighter;
+  font-family: sans-serif;
 }
 
 ul {
+  font-family: sans-serif;
   font-size: 15px;
   line-height: 30px;
 }
 
 ol {
+  color: red;
   font-size: 20px;
   line-height: 35px;
 }
